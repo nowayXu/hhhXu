@@ -4,7 +4,7 @@
 **nowayXu/nowayXu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+-->
 - 🔭 I’m currently working on ...China
 - 🌱 I’m currently learning ...  C++ &&  QT &&  单片机 
 - 👯 I’m looking to collaborate on ...
@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...1595154875@qq.com
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
